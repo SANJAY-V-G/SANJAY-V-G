@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SANJAY-V-G
 -🚀 Software Engineer | Problem Solver | Tech Enthusiast
--👀 I’m interested in Coding with pyhton, java, c
+-👀 I’m interested in full-stack developement, app developement, machine learning
 -🌱 I’m currently learning Kotlin
 -💡 Passionate about building scalable applications, optimizing algorithms, and creating intuitive user experiences.
 -💻 Skilled in Python, Java, C, JavaScript, React, SQL, and Machine Learning.
