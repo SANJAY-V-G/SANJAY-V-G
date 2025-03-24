@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SANJAY-V-G
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SANJAY-V-G/SANJAY-V-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-🚀 Software Engineer | Problem Solver | Tech Enthusiast
+-👀 I’m interested in Coding with pyhton, java, c
+-🌱 I’m currently learning Kotlin
+-💡 Passionate about building scalable applications, optimizing algorithms, and creating intuitive user experiences.
+-💻 Skilled in Python, Java, C, JavaScript, React, SQL, and Machine Learning.
+-🔍 Currently working on a AI Based Tutor web based learning application
+-📈 Love contributing to open-source projects and learning new technologies.
