@@ -3,13 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+UNIVERSE+OF+VG" alt="Typing SVG" />
 </h1>
 
-About Me --
 <h2 style="font-family: 'Fira Code', monospace;">👨‍💻 About Me</h2>
 
 - 🎓 Computer Science Student  
 - 🤖 AI/ML & Full Stack Enthusiast  
 
----
+
 
 
 <h2 style="font-family: 'Fira Code', monospace;">🛠️ Languages & Tools</h2>
