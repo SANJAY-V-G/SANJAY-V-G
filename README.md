@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SANJAY-V-G
--🚀 Software Engineer | Problem Solver | Tech Enthusiast
--👀 I’m interested in full-stack developement, app developement, machine learning
--🌱 I’m currently learning Kotlin
--💡 Passionate about building scalable applications, optimizing algorithms, and creating intuitive user experiences.
--💻 Skilled in Python, Java, C, JavaScript, React, SQL, and Machine Learning.
--🔍 Currently working on a AI Based Tutor web based learning application
--📈 Love contributing to open-source projects and learning new technologies.
+### 👋 Hi, I'm Sanjay V G
+
+- 🎓 Computer Science Student
+- 🔭 Working on AI/ML Projects
+- 💬 Ask me about Python, Web Dev, and DS-Algo
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayvg&show_icons=true)
